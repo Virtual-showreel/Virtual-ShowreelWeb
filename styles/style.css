@@ -609,7 +609,9 @@ a .liquid::before {
   left: 50%;
   transform: translate(-50%, -75%);
   background: #000;
+  
 }
+
 
 a .liquid::before {
   
